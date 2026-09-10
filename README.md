@@ -1,6 +1,4 @@
-# Laboratorio de Ingeniería en Sistemas Inteligentes
-
-Perfil oficial del **Laboratorio de la Universidad Intercontinental de la Empresa (UIE)**.
+# Perfil oficial del **Laboratorio de la Universidad Intercontinental de la Empresa (UIE)**.
 
 Nuestra misión es promover la investigación aplicada, el desarrollo tecnológico y la innovación en el ámbito de los sistemas inteligentes, contribuyendo a la generación y transferencia de conocimiento hacia la sociedad y el tejido empresarial.
 
